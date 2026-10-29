@@ -3,6 +3,7 @@
 An end-to-end **Forward Deployed Engineer (FDE) project** that turns a notebook-style Agentic RAG workflow into a deployable internal product using **LangGraph, FastAPI, Pinecone, Groq, Tavily, HTML, CSS, and JavaScript**.
 
 ---
+<img width="994" height="731" alt="image" src="https://github.com/user-attachments/assets/83bf18aa-43a0-4f58-a71f-01003411fca4" />
 
 ## 1. Business Problem
 
